@@ -1,0 +1,6 @@
+CustomerID,TotalQuantity,TotalOrdering,TotalSpending,AverageOrderValue
+10001,120,8,960,120.00
+10002,135,9,1080,120.00
+10003,125,8,1000,125.00
+10004,450,25,6750,270.00
+10005,480,27,7200,266.67
